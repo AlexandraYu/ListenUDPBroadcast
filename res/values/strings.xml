@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListenUDPBroadcast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Start service</string>
+    <string name="net_scanning">Scanning network</string>
+    <string name="wait">Please wait &#8230;&#8230;</string>
+    
+</resources>
